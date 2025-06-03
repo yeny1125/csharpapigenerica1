@@ -71,5 +71,3 @@ app.UseAuthorization(); // Habilita el middleware de autorización, necesario pa
 app.MapControllers(); // Configura las rutas de los controladores para manejar las solicitudes HTTP.
 
 app.Run(); // Inicia la aplicación y comienza a escuchar las solicitudes entrantes.
-
-
